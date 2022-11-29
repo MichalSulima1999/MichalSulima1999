@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Michał Sulima, student of the Lublin University of Technology.
-- 👀 I’m interested in developing applications and games. In my spare time I like to create models and scenes in Blender.
+- 👀 I’m interested in developing web applications and games. In my spare time I like to create models and scenes in Blender.
+- I'm mainly using Spring and React.
 
 <!---
 MichalSulima1999/MichalSulima1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
